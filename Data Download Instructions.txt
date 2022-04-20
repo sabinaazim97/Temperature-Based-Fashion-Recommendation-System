@@ -1,0 +1,7 @@
+How to access data:
+
+The data was too large to include so you can download the data from the following google drive belonging to the DeepFashion Database. 
+
+https://drive.google.com/drive/folders/0B7EVK8r0v71pekpRNUlMS3Z5cUk?resourcekey=0-GHiFnJuDTvzzGuTj6lE6og
+
+Simply download the “img.zip” file. There is no need to unzip the data as the python code includes code to unzip it. 
